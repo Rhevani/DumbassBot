@@ -1,1 +1,1 @@
-worker: python dumbassbot.py
+worker: python Dumbassbot.py
