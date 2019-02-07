@@ -1,0 +1,3 @@
+git+https://github.com/Rhevani/DumbassBot/blob/master/dumbassbot.py
+discord.py
+async-timeout==3.0.1
